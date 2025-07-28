@@ -1,8 +1,8 @@
-
+import Code from './new.jsx';
 function App() {
 
   return (
- <h1>hello world with vite react| Abdullah </h1>
+ <Code/>
   )
 }
 
