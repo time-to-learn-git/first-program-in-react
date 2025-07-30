@@ -1,9 +1,11 @@
+import Work from './new.js';
 
 function App() {
   return (
-    <div className="App">
+  <>
       <h1>Hello world |i am abdullah </h1>
-    </div>
+      <Work/>
+   </>
   );
 }
 
